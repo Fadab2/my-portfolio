@@ -2,7 +2,7 @@
   "basic_info": {
     "name": "Edris Berg",
     "titles": [
-      "Software Developer"
+      "Aspiring Full-Stack Developer"
     ],
     "social": [
       {
@@ -11,9 +11,9 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/berged/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
