@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Edris Berg. I'm learning newest front-end and back-end frameworks/tools like React, JavaScript, CSS, and Python.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -20,10 +20,6 @@
         ],
         "url": "",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
