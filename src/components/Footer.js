@@ -20,7 +20,7 @@ class Footer extends Component {
           <div className="row">
             <div className="col social-links">{networks}</div>
             <div className="col">
-              <div 
+              <div
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$primaryLanguage,
@@ -29,14 +29,8 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                <span
-                  className="iconify language-icon mr-5"
-                  data-icon="twemoji-flag-for-flag-united-kingdom"
-                  data-inline="false"
-                  id={window.$primaryLanguageIconId}
-                ></span>
               </div>
-              <div 
+              <div
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$secondaryLanguage,
@@ -45,12 +39,6 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                <span
-                  className="iconify language-icon"
-                  data-icon="twemoji-flag-for-flag-poland"
-                  data-inline="false"
-                  id={window.$secondaryLanguageIconId}
-                ></span>
               </div>
             </div>
             <div className="col">
