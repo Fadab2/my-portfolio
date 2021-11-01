@@ -81,37 +81,33 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
+      "company": "Student",
       "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "years": "8.2021 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "JavaScript 8/30/2021"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "CSS",
+        "HTML",
+        "GitHub",
+        "Git",
+        "React"
       ]
     },
     {
-      "company": "Serros Solutions",
+      "company": "Cisco via Matrix Resources",
       "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "years": "07.2014 - 03.2015",
       "mainTech": [
-        "Angular 7/8"
+        "Mobile Network"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Routering",
+        "Switching",
+        "Spanning Tree"
       ]
     }
   ]
